@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Demo Company",
+    "longName": "KS datesec",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ico.png",
+                "menuIcon": true,
+                "name": "color_icon",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "KS ds",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "ea31b826-6063-4aac-a0ee-ff251a0d8d9a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
